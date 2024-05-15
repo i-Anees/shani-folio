@@ -6,9 +6,11 @@
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: contain;
   }
-
+body {
+  background-color: #311E25;
+}
 
 @charset "UTF-8";/*!
  * Bootstrap v5.1.0 (https://getbootstrap.com/)
